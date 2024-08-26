@@ -45,15 +45,11 @@ Por ser o meu primeiro projeto desse tipo, decidi seguir fielmente o layout apre
 
 ## 🚀 Como Rodar o Projeto
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SeuUsuario/Decodificador-de-Texto.git
+1. Simplesmente clique no link:
    ```
-2. Navegue até o diretório do projeto:
-   ```bash
-   cd Decodificador-de-Texto
+   https://aguiarscripts.github.io/Decodificador-de-texto/
    ```
-3. Abra o arquivo `index.html` no seu navegador preferido.
+
 
 ## 🤝 Contribuições
 
