@@ -1,6 +1,3 @@
-Aqui está um exemplo de um README detalhado e bonito para o seu projeto de decodificador de texto:
-
----
 
 # 🔐 Decodificador de Texto - Alura
 
