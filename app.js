@@ -1,10 +1,9 @@
-// app.js
 function inicial() {
     const imagem = document.getElementById('img-retangulo');
     const mensagemPrincipal = document.getElementById('m-principal');
     const mensagemSecundaria = document.getElementById('m-secundaria');
-    imagem.style.display = 'block'; // Mostra a imagem
-    mensagemPrincipal.style.display = 'block'; // Esconde o texto criptografado
+    imagem.style.display = 'block'; 
+    mensagemPrincipal.style.display = 'block'; 
     mensagemSecundaria.style.display = 'block';
     const h1 = document.getElementById('texto-criptografado');
     const botao = document.getElementById('botao-copiar')
@@ -12,7 +11,6 @@ function inicial() {
     if(botao) botao.style.display = 'none'
 }
 function criptografar() {
-    // Obtém o elemento textarea
     const textarea = document.querySelector('.textarea-transparente');
     let texto = textarea.value;
     const imagem = document.getElementById('img-retangulo');
