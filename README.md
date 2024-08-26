@@ -46,9 +46,9 @@ Por ser o meu primeiro projeto desse tipo, decidi seguir fielmente o layout apre
 ## 🚀 Como Rodar o Projeto
 
 1. Simplesmente clique no link:
-   ```
+   
    https://aguiarscripts.github.io/Decodificador-de-texto/
-   ```
+   
 
 
 ## 🤝 Contribuições
